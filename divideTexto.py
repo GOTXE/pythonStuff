@@ -8,7 +8,7 @@ def dividir_texto(texto, longitud_maxima):
     return bloques
 
 # Ruta al archivo JavaScript
-ruta_archivo = "page-script.js"  # Asegúrate de proporcionar la ruta correcta
+ruta_archivo = "archivo.txt"  # Asegúrate de proporcionar la ruta correcta
 
 # Definir la longitud máxima de cada bloque
 longitud_maxima = 4000
