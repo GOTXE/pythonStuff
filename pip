@@ -1,0 +1,8 @@
+[https://pip.pypa.io/en/stable/cli/pip_list/](Información de PiP)
+
+# PiP comandos
+# Instalación de dependencias desde archivo requirements.txt
+pip install -r requirements.txt
+
+# Mostar dependencias instaladas
+python -m pip list '[options]'
