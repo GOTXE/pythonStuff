@@ -1,2 +1,1 @@
-# pythonStuff
-python scripts 
+# Un poco de todo para programación en python, además de git, markdown ...
