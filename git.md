@@ -1,5 +1,19 @@
-# Nota
+# Información sobre GIT
 [documentación oficial de Git](https://git-scm.com/doc) para obtener más información detallada.
+
+
+# Añadir usuario y correo electrónico a git
+  - git config --global user.name "Tu Nombre"
+  - git config --global user.email "tu.correo@example.com"
+  
+## Si se quiere hacer para un repositirio específico
+  - git config user.name "Tu Nombre"
+  - git config user.email "tu.correo@example.com"
+
+## Revisar la configuración
+  - git config --global --list
+  - git config --list
+
 
 # Comandos Básicos para Administrar tu Repositorio
 
